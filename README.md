@@ -67,3 +67,10 @@ Academic / Embedded Systems Project
 ## 🛠️ Skills Demonstrated
 
 PIC Microcontroller • Embedded C • ADC • LCD Interfacing • Sensor Interfacing • Embedded Systems • Hardware-Software Integration
+
+## 💻 Source Code
+
+The source code for the PIC-based automotive console project is available in this repository.
+
+[fullcode.c]
+
