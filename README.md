@@ -51,7 +51,7 @@ The system monitors temperature and battery-related information using ADC-based 
 
 ## 📷 Project Demo
 
-<Project-setup01.mp4>
+<automotive-console-demo.mp4>
 
 ## 🚀 Future Improvements
 
