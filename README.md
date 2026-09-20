@@ -49,9 +49,9 @@ The system monitors temperature and battery-related information using ADC-based 
 * Real-time LCD display
 * Frost-alert safety indication
 
-## 📷 Project Images
+## 📷 Project Demo
 
-Project images and hardware setup photos will be added here.
+<Project-setup01.mp4>
 
 ## 🚀 Future Improvements
 
